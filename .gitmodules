@@ -1,3 +1,6 @@
 [submodule "m040"]
 	path = m040
 	url = https://github.com/adriandarian/m040.git
+[submodule "m220J"]
+	path = m220J
+	url = https://github.com/adriandarian/m220J.git
