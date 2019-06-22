@@ -7,3 +7,6 @@
 [submodule "m121"]
 	path = m121
 	url = https://github.com/adriandarian/m121.git
+[submodule "m220JS"]
+	path = m220JS
+	url = https://github.com/adriandarian/m220JS.git
