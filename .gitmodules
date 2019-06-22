@@ -10,3 +10,6 @@
 [submodule "m220JS"]
 	path = m220JS
 	url = https://github.com/adriandarian/m220JS.git
+[submodule "m220P"]
+	path = m220P
+	url = https://github.com/adriandarian/m220P.git
