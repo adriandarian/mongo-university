@@ -2,7 +2,7 @@
 
 ---
 
-![How The University Works](https://github.com/adriandarian/mongo-university/assets/about.png)
+![How The University Works](https://raw.githubusercontent.com/adriandarian/mongo-university/master/assets/about.png?token=AFTZWUYHRE34DMR56BPQHB25DGNQ6)
 
 ---
 
